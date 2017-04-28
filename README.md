@@ -5,7 +5,7 @@
 If you have a MacBook Pro with the touchbar this project will help you to customize your touchbar by adding the current sound playing on spotify.
 
 Example :
-![screenshot](./img/screenshot-touchbar.png')
+![screenshot](./img/screenshot-touchbar.png)
 
 ## Prerequisite
 
@@ -17,10 +17,10 @@ Example :
 
 First, you need to add a new widget on the global section. Find the configuration below.
 
-![config widget](./img/screenshot-config.png')
+![config widget](./img/screenshot-config.png)
 
 Icon :
-![icon](./icon.png')
+![icon](./icon.png)
 
 Script :
 [touchbar.applescript](./touchbar.applescript)
