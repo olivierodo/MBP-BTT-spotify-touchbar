@@ -5,6 +5,7 @@
 If you have a MacBook Pro with the touchbar this project will help you to customize your touchbar by adding the current sound playing on spotify.
 
 Example :
+
 ![screenshot](./img/screenshot-touchbar.png)
 
 ## Prerequisite
@@ -19,14 +20,15 @@ First, you need to add a new widget on the global section. Find the configuratio
 
 ![config widget](./img/screenshot-config.png)
 
-Icon :
+#### Icon
+
 ![icon](./icon.png)
 
-Script :
+#### Script
+
 [touchbar.applescript](./touchbar.applescript)
 
 And Voila !
-
 
 ### Credits
 [CaptainAverage](https://obsproject.com/forum/threads/how-to-display-current-song-is-x-on-mac.23444/#post-128864) on obsproject.com
